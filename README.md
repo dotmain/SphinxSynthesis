@@ -29,4 +29,4 @@ Clone project.
 Command + U to run tests. 
 
 
-We are gonna ... have fun. 
+We are gonna license synthesis to have fun. 
