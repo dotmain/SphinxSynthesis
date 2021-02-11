@@ -2,8 +2,8 @@
 
 SphinxSynthesis is a demo purpose sphinx synthesis thinking machine functionality modeled after Tyrolabs TLSphinx. TLSphinx is a Swift wrapper around [Pocketsphinx], a portable library based on [CMU Sphinx].
 
-[Tryolabs Blog]: http://blog.tryolabs.com/
-[CMU Sphinx]: http://cmusphinx.sourceforge.net/
+http://blog.tryolabs.com/
+http://cmusphinx.sourceforge.net/
 
 # Synthesis
 
