@@ -29,3 +29,6 @@ We are gonna license synthesis to revolutionize machines.
 Clone project.
 Command + U to run tests. 
 
+.a demo purpose thinking machine synthesis license. property of mainvolume, by m41n1485, for planetever. xxxxi.
+
+
