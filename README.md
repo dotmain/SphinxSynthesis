@@ -22,8 +22,11 @@ For commercial intelligent and thinking machine non entertainment purpose licens
 mainvolume.com
 planetever.com
 
-v
+#v
 ￼ 
 
 Clone project.
 Command + U to run tests. 
+
+
+We are gonna ... have fun. 
